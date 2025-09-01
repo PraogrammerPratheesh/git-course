@@ -1,0 +1,1 @@
+print("Ist prize is 10000 Indian Ruppess.")
