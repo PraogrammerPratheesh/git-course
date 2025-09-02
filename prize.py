@@ -1,3 +1,5 @@
 print("Ist prize is 10000 Indian Ruppess.")
 name = input("Enter the name who has been won\n")
 print("The Winner is "+name)
+second_name = input("Enter the name who has been second winner\n")
+print("The Second Winner is "+second_name)
